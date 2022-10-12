@@ -1,8 +1,8 @@
-(https://media-exp1.licdn.com/dms/image/C5616AQFEusM4m3ciyg/profile-displaybackgroundimage-shrink_350_1400/0/1662314951303?e=1671062400&v=beta&t=hGKxJcnXUNvXO4U6QH9_kl-0rmUOgnK91RHkDqWASLU)
+![I am Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQFEusM4m3ciyg/profile-displaybackgroundimage-shrink_350_1400/0/1662314951303?e=1671062400&v=beta&t=hGKxJcnXUNvXO4U6QH9_kl-0rmUOgnK91RHkDqWASLU)
 
 ### Hi there 👋, I'm Parvez Mahamud
 #### I am Web Developer
-![I am Web Developer]
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
