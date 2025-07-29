@@ -1,30 +1,64 @@
-### Hi there 👋, I'm Parvez Mahamud AA
-#### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D5616AQH7HhwnDIS-vw/profile-displaybackgroundimage-shrink_350_1400/0/1703442108263?e=1709164800&v=beta&t=JET3G0GFbv_8DPGa5xtQl2tZ_tlD9pUdj_N5vaYt75E)
+<h1 align="center">👋 Hi, I'm Parvez Mahmud</h1>
 
-Web Developer | Eager to Contribute to Innovative Projects | Actively Seeking Opportunities.copy/paste and use in your profile.
+<p align="center">
+  💻 MERN Stack Web Developer | 🚀 Future SaaS Builder | 🇧🇩 Based in Chattogram, Bangladesh
+</p>
 
-Skills: REACT / JS / HTML / CSS
+---
 
-- 🔭 I’m currently working on On my Portfolion at my home. 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+## 🧠 About Me
 
+I'm a passionate self-taught **MERN Stack Developer** with a strong foundation in frontend and backend development. I’m building real-world full stack projects and improving daily by learning, practicing, and creating useful software for businesses and people.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ParvezMah)  
+> 🎯 **Mission:** To become a top 1% software developer and contribute to the tech transformation of Bangladesh.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ParvezMah)](https://github.com/ryo-ma/github-profile-trophy)
+## 🔧 Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParvezMah)](https://github.com/anuraghazra/github-readme-stats)
+| Category     | Technologies |
+|--------------|--------------|
+| **Frontend** | HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS |
+| **Backend**  | Node.js, Express.js, MongoDB, Mongoose, REST API |
+| **Tools**    | Git & GitHub, VS Code, Postman, Vercel, Render |
+| **Learning** | TypeScript, Prisma, Cloud & DevOps, AI Integration |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParvezMah&show_icons=true&count_private=true)  
+---
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ParvezMah/contributions?format=svg&private=true)  
+## 📂 Projects I'm Working On
 
-![GitHub metrics](https://metrics.lecoq.io/ParvezMah)  
+- ✅ **MERN Restaurant App** — Full-featured restaurant ordering and management system
+- ✅ **Finwise SaaS** — Expense tracker with dashboard analytics (charts, categories, export)
+- ✅ **Blog with Next.js** — Secure blog platform with JWT Auth and rich text editor
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ParvezMah)  
+📌 Check my pinned repos for code and demos!
+
+---
+
+## 🗂️ Upcoming Projects
+
+- 🚧 **Real-time Chat App** (Socket.IO + MongoDB)
+- 🚀 **Portfolio Website** (with live project showcase & contact form)
+- 🧾 **Job Tracker App** (organize and track job applications)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParvezMah&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParvezMah&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 **GitHub:** [ParvezMah](https://github.com/ParvezMah)
+- 🧑‍💼 **LinkedIn:** [Add your LinkedIn URL]
+- 📧 **Email:** your.email@example.com (replace this)
+
+---
+
+_🚀 I believe in progress through code. Every line brings me closer to my goal._
 
