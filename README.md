@@ -62,3 +62,6 @@ I'm a passionate self-taught **MERN Stack Developer** with a strong foundation i
 
 _🚀 I believe in progress through code. Every line brings me closer to my goal._
 
+
+
+![Parvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParvezMah&show_icons=true&theme=radical)
