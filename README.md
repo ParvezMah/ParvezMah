@@ -19,10 +19,10 @@ I’m building real-world full stack projects and improving daily by learning, p
 
 | Category     | Technologies |
 |--------------|--------------|
-| **Frontend** | HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS |
-| **Backend**  | Node.js, Express.js, MongoDB, Mongoose, REST API |
+| **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS |
+| **Backend**  | Node.js, Express.js, MongoDB, Mongoose, REST API, PostGreSQL |
 | **Tools**    | Git & GitHub, VS Code, Postman, Vercel, Render |
-| **Learning** | TypeScript, Prisma, Cloud & DevOps, AI Integration |
+| **Learning** | GraphQL, Prisma, Cloud & DevOps, AI Integration |
 
 ### 🛠 Skills & Tools  
 <p>
