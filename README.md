@@ -15,7 +15,9 @@ I’m building real-world full stack projects and improving daily by learning, p
 
 ---
 
-[📄 Download my Resume (PDF)](https://yourdomain.com/ParvezMah-Resume.pdf)
+## My Resume [📄 Download](https://yourdomain.com/ParvezMah-Resume.pdf)
+
+---
 
 ## 🔧 Tech Stack
 
