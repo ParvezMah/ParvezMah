@@ -56,7 +56,7 @@ I'm a passionate self-taught **MERN Stack Developer** with a strong foundation i
 
 - 🌐 **GitHub:** [ParvezMah](https://github.com/ParvezMah)
 - 🧑‍💼 **LinkedIn:** [Add your LinkedIn URL]
-- 📧 **Email:** your.email@example.com (replace this)
+- 📧 **Email:** (parvezmahmudaa100@gmail.com)
 
 ---
 
