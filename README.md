@@ -11,7 +11,6 @@
 I'm a passionate self-taught **MERN Stack Developer** with a strong foundation in frontend and backend development.  
 I’m building real-world full stack projects and improving daily by learning, practicing, and creating useful software for businesses and people.
 
-> 🎯 **Mission:** To become a top 1% software developer and contribute to the tech transformation of Bangladesh — one line of code at a time.
 
 ---
 
