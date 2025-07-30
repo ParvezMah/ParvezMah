@@ -83,24 +83,20 @@ I’m building real-world full stack projects and improving daily by learning, p
 
 ## 🌍 Open Source Contributions
 
-- Contributed to [example-project](https://github.com/example/project) — improved docs and fixed bugs  
-- Active participant in community-driven projects on GitHub  
+- Not any project, Contributed
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/ParvezMah" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/parvez-mahamud" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:parvezmahmudaa100@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/ParvezMahamud11" target="_blank" rel="noopener noreferrer">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">
