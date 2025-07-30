@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Parvez Mahmud</h1>
 
 <p align="center">
-  <strong>💻 Full Stack Web Developer | MERN Stack | MongoDB, Expres.js, React.js, Node.js,  | Building Modern Web Apps </strong>
+  <strong>💻 Full Stack Web Developer | MERN Stack | Self-thought Developer | Building Modern Web Apps </strong>
 </p>
 
 ---
