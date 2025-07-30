@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Parvez Mahmud</h1>
 
 <p align="center">
-  💻 MERN Stack Web Developer | 🚀 Future SaaS Builder | 🇧🇩 Based in Chattogram, Bangladesh
+  💻 Full Stack Web Developer | MERN Stack | JavaScript, React, Node.js, MongoDB | Building Modern Web Apps
 </p>
 
 ---
