@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Parvez Mahmud</h1>
 
 <p align="center">
-  💻 Full Stack Web Developer | MERN Stack | JavaScript, React, Node.js, MongoDB | Building Modern Web Apps
+  <strong>💻 Full Stack Web Developer | MERN Stack | MongoDB, Expres.js, React.js, Node.js,  | Building Modern Web Apps </strong>
 </p>
 
 ---
@@ -14,8 +14,7 @@ I’m building real-world full stack projects and improving daily by learning, p
 
 ---
 
-## My Resume 
-[📄 Download](https://drive.google.com/file/d/18B0P0TXxprKRa7u8w8tYWNu71WnpwQWk/view?usp=sharing)
+## My Resume - [Download](https://drive.google.com/file/d/18B0P0TXxprKRa7u8w8tYWNu71WnpwQWk/view?usp=sharing)
 
 ---
 
@@ -99,7 +98,7 @@ I’m building real-world full stack projects and improving daily by learning, p
   <a href="https://x.com/ParvezMahamud11" target="_blank" rel="noopener noreferrer">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://react-porfolio-parvez-2.vercel.app" target="_blank" rel="noopener noreferrer">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/18B0P0TXxprKRa7u8w8tYWNu71WnpwQWk/view?usp=sharing" target="_blank" rel="noopener noreferrer">
