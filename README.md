@@ -98,7 +98,7 @@ I’m building real-world full stack projects and improving daily by learning, p
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:parvezmahmudaa100@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener noreferrer">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -106,7 +106,7 @@ I’m building real-world full stack projects and improving daily by learning, p
   <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
-  <a href="https://yourdomain.com/ParvezMah-Resume.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/18B0P0TXxprKRa7u8w8tYWNu71WnpwQWk/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
