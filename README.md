@@ -14,7 +14,7 @@ I’m building real-world full stack projects and improving daily by learning, p
 
 ---
 
-## My Resume - [Download](https://drive.google.com/file/d/18B0P0TXxprKRa7u8w8tYWNu71WnpwQWk/view?usp=sharing)
+## My Resume - [Download](https://drive.google.com/file/d/18hlyE-2DOqhUnOXt_jCU-9DHaqHZT080/view?usp=sharing)
 
 ---
  
