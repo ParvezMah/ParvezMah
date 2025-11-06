@@ -14,7 +14,7 @@ I’m building real-world full stack projects and improving daily by learning, p
 
 ---
 ## [Visit My Portfolio](https://parvez-mahamud-portfolio.vercel.app)
-## My Resume - [Download](https://drive.google.com/file/d/18hlyE-2DOqhUnOXt_jCU-9DHaqHZT080/view?usp=sharing)
+## [Visit My Resume](https://drive.google.com/file/d/18hlyE-2DOqhUnOXt_jCU-9DHaqHZT080/view?usp=sharing)
 
 ---
  
