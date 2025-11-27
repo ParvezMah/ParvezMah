@@ -43,14 +43,14 @@ I’m building real-world full stack projects and improving daily by learning, p
 
 ## 📂 Projects I'm Working On
 
-- ✅ **GoTrip** — Ride Booking Management System  
-  🔗 [Repo Link](https://github.com/ParvezMah/mernstaurantapp) | 🌐 [Live Demo](https://your-demo-url.com)  
+# **GoTrip** — Ride Booking Management System  
   <img width="1905" height="910" alt="GoTrip-Project Image" src="https://github.com/user-attachments/assets/42acacab-8ed1-4cd9-adf2-49934c05fff0" />
+  🔗 [Repo Link](https://github.com/ParvezMah/mernstaurantapp) | 🌐 [Live Demo](https://your-demo-url.com)  
   
 
-- ✅ **Librarian** — Library Management System  
-  🔗 [Repo Link](https://github.com/ParvezMah/finwise) | 🌐 [Live Demo](https://your-demo-url.com)  
+# **Librarian** — Library Management System  
 <img width="1904" height="869" alt="Librarian-Project Image" src="https://github.com/user-attachments/assets/35976aa6-a217-4555-9989-ad1e0d1739fa" />
+  🔗 [Repo Link](https://github.com/ParvezMah/finwise) | 🌐 [Live Demo](https://your-demo-url.com)  
 
 
 📌 Check my pinned repos for more code and demos!
