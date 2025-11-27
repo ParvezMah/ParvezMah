@@ -43,29 +43,17 @@ I’m building real-world full stack projects and improving daily by learning, p
 
 ## 📂 Projects I'm Working On
 
-- ✅ **MERN Restaurant App** — Full-featured restaurant ordering and management system  
+- ✅ **GoTrip** — Ride Booking Management System  
   🔗 [Repo Link](https://github.com/ParvezMah/mernstaurantapp) | 🌐 [Live Demo](https://your-demo-url.com)  
-  ![Screenshot](https://your-image-link.com/screenshot1.png)
+  ![Screenshot](https://drive.google.com/file/d/1RYQoJRLARICxFvXXQgnICGHMhmuGzEET/view?usp=sharing)
 
-- ✅ **Finwise SaaS** — Expense tracker with dashboard analytics (charts, categories, export)  
+- ✅ **Librarian** — Library Management System  
   🔗 [Repo Link](https://github.com/ParvezMah/finwise) | 🌐 [Live Demo](https://your-demo-url.com)  
-  ![Screenshot](https://your-image-link.com/screenshot2.png)
-
-- ✅ **Blog with Next.js** — Secure blog platform with JWT Auth and rich text editor  
-  🔗 [Repo Link](https://github.com/ParvezMah/blog-nextjs) | 🌐 [Live Demo](https://your-demo-url.com)  
-  ![Screenshot](https://your-image-link.com/screenshot3.png)
+  ![Screenshot](https://drive.google.com/file/d/1S4dwmiSh3WEDtk0r6ysGPTnUgiI35pW0/view?usp=sharing)
 
 📌 Check my pinned repos for more code and demos!
 
----
 
-## 🗂️ Upcoming Projects
-
-- 🚧 **Real-time Chat App** (Socket.IO + MongoDB)  
-- 🚀 **Portfolio Website** (with live project showcase & contact form)  
-- 🧾 **Job Tracker App** (organize and track job applications)  
-
----
 
 ## 📈 GitHub Stats & Activity
 
